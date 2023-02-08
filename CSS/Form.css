@@ -13,7 +13,7 @@ body{
     display:flex;
     flex-flow: column wrap;
     align-content: center;
-    background: tomato;
+    background: rgb(126, 16, 177);
     font-weight: bold;
     margin-bottom: 20px;
     padding:20px;
